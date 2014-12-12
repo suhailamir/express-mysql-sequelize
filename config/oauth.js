@@ -1,5 +1,0 @@
-var ids = {
-   
-}
-
-module.exports = ids
